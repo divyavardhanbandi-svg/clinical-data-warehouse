@@ -1,0 +1,7 @@
+visit_id,patient_id,patient_name,gender,birth_year,visit_date,icd_code,diagnosis,doctor,department,length_of_stay,cost,readmitted_30d,reject_reason
+V00011,P0005,Vikram Kumar,M,2018,31/02/2025,J18,Pneumonia,Dr. Reddy,Orthopedics,4,3745.19,N,time data '31/02/2025' does not match format '%Y-%m-%d'
+V00021,P0058,Meena Sharma,F,1966,2025-09-13,J45,Asthma,Dr. Reddy,Orthopedics,10,-150,N,negative cost
+V00031,P0025,Sara Patel,M,1850,2025-09-18,J18,Pneumonia,Dr. Reddy,Orthopedics,0,17865.24,Y,implausible age 175
+V00061,,Neha Sharma,F,2008,2025-06-06,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,3,3592.41,Y,missing visit_id/patient_id
+V00006,P0055,Ravi Kumar,F,1978,2025-03-11,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,10,21614.57,N,duplicate visit_id
+V00007,P0008,Divya Khan,F,1954,2026-08-16,J18,Pneumonia,Dr. Reddy,Orthopedics,9,1473.67,Y,duplicate visit_id

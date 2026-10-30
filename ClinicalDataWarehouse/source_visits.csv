@@ -1,0 +1,403 @@
+visit_id,patient_id,patient_name,gender,birth_year,visit_date,icd_code,diagnosis,doctor,department,length_of_stay,cost,readmitted_30d
+V00001,P0011,Vikram Sharma,M,1993,2026-05-08,I21,Myocardial Infarction,Dr. Khan,Pulmonology,3,21683.93,Y
+V00002,P0011,Vikram Sharma,M,1993,2026-02-04,I21,Myocardial Infarction,Dr. Sharma,Cardiology,4,23199.69,N
+V00003,P0019,Meena Reddy,M,1994,2026-05-14,I21,Myocardial Infarction,Dr. Rao,Endocrinology,2,5152.5,N
+V00004,P0004,Ravi Reddy,M,1999,2025-03-04,J18,Pneumonia,Dr. Rao,Endocrinology,11,8183.32,Y
+V00005,P0038,Asha Singh,F,1974,2026-06-28,I21,Myocardial Infarction,Dr. Rao,Endocrinology,2,1893.55,Y
+V00006,P0055,Ravi Kumar,F,1978,2025-03-11,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,10,21614.57,N
+V00007,P0008,Divya Khan,F,1954,2026-08-16,J18,Pneumonia,Dr. Reddy,Orthopedics,9,1473.67,Y
+V00008,P0027,Divya Khan,M,1952,2026-08-02,M54,Back Pain,Dr. Rao,Endocrinology,8,8251.06,N
+V00009,P0014,Kiran Singh,M,1964,2025-09-02,M54,Back Pain,Dr. Iyer,General Medicine,4,10196.75,N
+V00010,P0030,Vikram Singh,F,1983,2025-01-10,J45,Asthma,Dr. Sharma,Cardiology,7,15718.4,Y
+V00011,P0005,Vikram Kumar,M,2018,31/02/2025,J18,Pneumonia,Dr. Reddy,Orthopedics,4,3745.19,N
+V00012,P0057,Neha Das,M,1989,2026-01-14,I10,Hypertension,Dr. Reddy,Orthopedics,4,4364.8,N
+V00013,P0040,Ravi Singh,F,1943,2025-01-09,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,10,20519.05,N
+V00014,P0060,Neha Kumar,M,1965,2025-05-18,M54,Back Pain,Dr. Sharma,Cardiology,4,3328.0,Y
+V00015,P0048,Ravi Kumar,M,1943,2025-10-06,J18,Pneumonia,Dr. Reddy,Orthopedics,4,15318.33,N
+V00016,P0014,Kiran Singh,M,1964,2026-06-02,M54,Back Pain,Dr. Iyer,General Medicine,7,6652.47,Y
+V00017,P0006,Neha Nair,M,1992,2025-10-11,M54,Back Pain,Dr. Khan,Pulmonology,0,586.87,N
+V00018,P0041,Neha Patel,M,1995,2026-03-29,J45,Asthma,Dr. Reddy,Orthopedics,8,17788.85,Y
+V00019,P0008,Divya Khan,F,1954,2026-07-13,I10,Hypertension,Dr. Reddy,Orthopedics,0,20947.58,N
+V00020,P0028,Neha Das,M,1941,2025-11-12,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,5,22525.05,Y
+V00021,P0058,Meena Sharma,F,1966,2025-09-13,J45,Asthma,Dr. Reddy,Orthopedics,10,-150,N
+V00022,P0040,Ravi Singh,F,1943,2025-08-31,M54,Back Pain,Dr. Reddy,Orthopedics,2,24417.05,N
+V00023,P0057,Neha Das,M,1989,2025-07-03,I21,Myocardial Infarction,Dr. Sharma,Cardiology,11,23149.94,N
+V00024,P0052,Imran Nair,M,1947,2025-10-01,M54,Back Pain,Dr. Reddy,Orthopedics,2,19790.68,Y
+V00025,P0025,Sara Patel,M,2006,2026-04-27,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,3,5389.53,N
+V00026,P0023,Vikram Khan,M,2018,2025-08-17,J45,Asthma,Dr. Reddy,Orthopedics,0,16670.81,N
+V00027,P0022,Divya Sharma,M,1962,2025-10-13,J45,Asthma,Dr. Sharma,Cardiology,5,16216.3,N
+V00028,P0044,Kiran Sharma,F,2018,2025-12-06,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,0,3325.87,N
+V00029,P0012,Neha Singh,F,1945,2025-02-09,J18,Pneumonia,Dr. Iyer,General Medicine,1,15116.0,N
+V00030,P0047,Asha Reddy,M,1935,2026-03-23,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,9,24613.78,Y
+V00031,P0025,Sara Patel,M,1850,2025-09-18,J18,Pneumonia,Dr. Reddy,Orthopedics,0,17865.24,Y
+V00032,P0034,Meena Das,M,1968,2025-07-21,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,5,11066.79,N
+V00033,P0040,Ravi Singh,F,1943,2025-11-04,J45,Asthma,Dr. Sharma,Cardiology,8,8077.47,N
+V00034,P0021,Asha Reddy,M,1975,2026-07-22,I21,Myocardial Infarction,Dr. Iyer,General Medicine,2,5200.08,N
+V00035,P0044,Kiran Sharma,F,2018,2026-08-06,M54,Back Pain,Dr. Reddy,Orthopedics,4,10448.84,Y
+V00036,P0020,Divya Sharma,M,1976,2026-03-17,J45,Asthma,Dr. Reddy,Orthopedics,12,14709.63,N
+V00037,P0030,Vikram Singh,F,1983,2025-08-07,I21,Myocardial Infarction,Dr. Khan,Pulmonology,8,12093.06,N
+V00038,P0043,Vikram Nair,M,2004,2026-06-12,I10,Hypertension,Dr. Iyer,General Medicine,10,16007.05,N
+V00039,P0006,Neha Nair,M,1992,2025-11-14,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,3,20260.79,N
+V00040,P0002,Kiran Patel,M,2004,2026-05-02,I10,Hypertension,Dr. Reddy,Orthopedics,9,21318.57,Y
+V00041,P0030,  asha   KUMAR ,F,1983,2025-07-19,I21,Myocardial Infarction,Dr. Rao,Endocrinology,11,17560.68,N
+V00042,P0026,Neha Sharma,F,2009,2025-01-06,E11,Type 2 Diabetes,Dr. Reddy,Orthopedics,12,21580.79,Y
+V00043,P0050,Kiran Sharma,F,1962,2025-06-30,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,12,23970.17,N
+V00044,P0004,Ravi Reddy,M,1999,2025-05-05,J18,Pneumonia,Dr. Reddy,Orthopedics,7,3766.81,N
+V00045,P0043,Vikram Nair,M,2004,2025-11-21,J18,Pneumonia,Dr. Rao,Endocrinology,12,22339.94,N
+V00046,P0054,Divya Das,M,2018,2025-06-12,J18,Pneumonia,Dr. Khan,Pulmonology,11,21606.63,N
+V00047,P0017,Arjun Patel,F,1980,2025-10-11,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,12,19553.03,N
+V00048,P0041,Neha Patel,M,1995,2026-03-27,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,1,17981.85,N
+V00049,P0018,Kiran Sharma,M,2012,2026-07-08,J45,Asthma,Dr. Iyer,General Medicine,1,3890.16,N
+V00050,P0025,Sara Patel,M,2006,2025-08-08,M54,Back Pain,Dr. Reddy,Orthopedics,1,10664.26,N
+V00051,P0035,Neha Patel,female,2015,2025-03-05,I21,Myocardial Infarction,Dr. Khan,Pulmonology,3,20905.83,N
+V00052,P0058,Meena Sharma,F,1966,2025-01-21,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,12,14604.41,N
+V00053,P0001,Ravi Kumar,F,1966,2026-02-04,J45,Asthma,Dr. Iyer,General Medicine,6,13686.4,N
+V00054,P0032,Asha Singh,F,2017,2026-03-23,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,7,1211.11,N
+V00055,P0043,Vikram Nair,M,2004,2025-06-19,M54,Back Pain,Dr. Khan,Pulmonology,7,23028.77,Y
+V00056,P0059,Ravi Das,M,1941,2026-08-01,I21,Myocardial Infarction,Dr. Rao,Endocrinology,10,1164.0,N
+V00057,P0009,Kiran Khan,M,1946,2025-07-06,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,0,6873.83,N
+V00058,P0014,Kiran Singh,M,1964,2025-12-12,I21,Myocardial Infarction,Dr. Iyer,General Medicine,12,22051.18,N
+V00059,P0049,Asha Khan,M,2000,2025-09-16,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,1,12022.52,Y
+V00060,P0023,Vikram Khan,M,2018,2025-02-11,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,12,1260.23,N
+V00061,,Neha Sharma,F,2008,2025-06-06,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,3,3592.41,Y
+V00062,P0037,Meena Kumar,F,1997,2025-09-20,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,12,9537.93,Y
+V00063,P0050,Kiran Sharma,F,1962,2025-11-15,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,1,14677.78,N
+V00064,P0037,Meena Kumar,F,1997,2026-02-11,M54,Back Pain,Dr. Khan,Pulmonology,11,5359.08,N
+V00065,P0007,Vikram Sharma,M,1955,2025-05-04,M54,Back Pain,Dr. Iyer,General Medicine,12,24604.19,Y
+V00066,P0023,Vikram Khan,M,2018,2026-01-15,J18,Pneumonia,Dr. Khan,Pulmonology,1,12896.04,N
+V00067,P0001,Ravi Kumar,F,1966,2026-05-17,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,1,11121.32,N
+V00068,P0041,Neha Patel,M,1995,2025-06-06,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,6,4815.36,N
+V00069,P0040,Ravi Singh,F,1943,2026-05-11,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,7,11171.58,N
+V00070,P0021,Asha Reddy,M,1975,2025-03-30,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,4,22099.96,N
+V00071,P0049,Asha Khan,M,2000,2026-01-24,I21,Myocardial Infarction,Dr. Rao,Endocrinology,5,1203.15,N
+V00072,P0012,Neha Singh,F,1945,2025-12-30,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,12,6829.63,N
+V00073,P0057,Neha Das,M,1989,2026-07-24,J18,Pneumonia,Dr. Iyer,General Medicine,0,13157.37,N
+V00074,P0006,Neha Nair,M,1992,2026-05-16,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,8,19075.03,N
+V00075,P0042,Neha Patel,F,2002,2026-04-04,M54,Back Pain,Dr. Khan,Pulmonology,12,922.46,N
+V00076,P0015,Sara Singh,M,1947,2025-11-10,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,10,14748.11,N
+V00077,P0036,Sara Reddy,M,1982,2026-03-12,J18,Pneumonia,Dr. Iyer,General Medicine,11,13984.52,N
+V00078,P0045,Arjun Das,F,1950,2025-11-10,I21,Myocardial Infarction,Dr. Iyer,General Medicine,4,6148.18,N
+V00079,P0021,Asha Reddy,M,1975,2025-07-09,I10,Hypertension,Dr. Rao,Endocrinology,3,5801.42,N
+V00080,P0018,Kiran Sharma,M,2012,2026-06-22,M54,Back Pain,Dr. Rao,Endocrinology,9,7433.47,Y
+V00081,P0054,Divya Das,M,2018,2025-08-21,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,5,4896.32,Y
+V00082,P0046,Kiran Reddy,M,1978,2025-10-08,J18,Pneumonia,Dr. Reddy,Orthopedics,0,24370.23,N
+V00083,P0045,Arjun Das,F,1950,2025-04-16,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,0,14564.57,N
+V00084,P0031,Vikram Das,F,2005,2025-07-08,I21,Myocardial Infarction,Dr. Iyer,General Medicine,0,6685.72,N
+V00085,P0008,Divya Khan,F,1954,2026-02-15,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,7,2315.01,Y
+V00086,P0010,Divya Singh,F,1979,2025-11-08,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,1,24850.99,Y
+V00087,P0036,Sara Reddy,M,1982,2025-08-20,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,12,13303.03,N
+V00088,P0059,Ravi Das,M,1941,2026-03-16,I21,Myocardial Infarction,Dr. Iyer,General Medicine,4,14431.42,Y
+V00089,P0040,Ravi Singh,F,1943,2025-08-01,M54,Back Pain,Dr. Sharma,Cardiology,10,5670.12,Y
+V00090,P0011,Vikram Sharma,M,1993,2026-07-20,E11,Type 2 Diabetes,Dr. Reddy,Orthopedics,1,4335.05,N
+V00091,P0029,Ravi Patel,M,1989,2026-04-27,M54,Back Pain,Dr. Rao,Endocrinology,4,1299.68,N
+V00092,P0046,Kiran Reddy,M,1978,2025-03-14,J45,Asthma,Dr. Khan,Pulmonology,10,6218.88,N
+V00093,P0051,Neha Patel,F,1966,2025-07-22,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,6,3312.02,N
+V00094,P0042,Neha Patel,F,2002,2025-05-26,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,1,1961.13,N
+V00095,P0039,Kiran Kumar,M,2007,2025-10-23,M54,Back Pain,Dr. Rao,Endocrinology,7,3546.66,N
+V00096,P0045,Arjun Das,F,1950,2026-05-28,I21,Myocardial Infarction,Dr. Iyer,General Medicine,8,12597.98,Y
+V00097,P0039,Kiran Kumar,M,2007,2025-11-27,I10,Hypertension,Dr. Khan,Pulmonology,9,6634.01,Y
+V00098,P0015,Sara Singh,M,1947,2025-01-22,M54,Back Pain,Dr. Rao,Endocrinology,12,16970.9,N
+V00099,P0037,Meena Kumar,F,1997,2026-04-27,I10,Hypertension,Dr. Reddy,Orthopedics,8,16461.98,N
+V00100,P0012,Neha Singh,F,1945,2026-05-19,J18,Pneumonia,Dr. Khan,Pulmonology,1,12015.25,N
+V00101,P0022,Divya Sharma,M,1962,2025-06-14,J45,Asthma,Dr. Sharma,Cardiology,5,10585.3,N
+V00102,P0019,Meena Reddy,M,1994,2026-07-18,M54,Back Pain,Dr. Khan,Pulmonology,0,11643.23,N
+V00103,P0017,Arjun Patel,F,1980,2026-02-18,J45,Asthma,Dr. Sharma,Cardiology,8,20710.72,Y
+V00104,P0043,Vikram Nair,M,2004,2026-04-19,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,6,1828.0,N
+V00105,P0040,Ravi Singh,F,1943,2026-03-29,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,12,1764.49,N
+V00106,P0036,Sara Reddy,M,1982,2026-03-25,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,11,12375.44,Y
+V00107,P0041,Neha Patel,M,1995,2025-06-12,J18,Pneumonia,Dr. Reddy,Orthopedics,4,13995.56,N
+V00108,P0006,Neha Nair,M,1992,2026-04-18,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,1,16368.89,N
+V00109,P0032,Asha Singh,F,2017,2026-06-06,M54,Back Pain,Dr. Iyer,General Medicine,11,7198.91,N
+V00110,P0031,Vikram Das,F,2005,2026-07-19,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,2,9897.86,N
+V00111,P0056,Ravi Reddy,M,1959,2026-03-01,I10,Hypertension,Dr. Iyer,General Medicine,5,23389.09,N
+V00112,P0053,Ravi Nair,F,1989,2025-11-02,I10,Hypertension,Dr. Iyer,General Medicine,9,14708.12,N
+V00113,P0056,Ravi Reddy,M,1959,2026-07-06,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,7,8955.54,N
+V00114,P0030,Vikram Singh,F,1983,2025-09-02,J45,Asthma,Dr. Reddy,Orthopedics,9,9882.79,N
+V00115,P0003,Ravi Nair,M,1938,2026-01-26,J45,Asthma,Dr. Khan,Pulmonology,6,24716.14,N
+V00116,P0032,Asha Singh,F,2017,2026-05-30,I10,Hypertension,Dr. Reddy,Orthopedics,9,8633.87,Y
+V00117,P0056,Ravi Reddy,M,1959,2025-04-13,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,8,22805.82,Y
+V00118,P0047,Asha Reddy,M,1935,2025-06-08,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,1,12002.52,N
+V00119,P0022,Divya Sharma,M,1962,2025-03-24,J18,Pneumonia,Dr. Khan,Pulmonology,5,21382.36,N
+V00120,P0021,Asha Reddy,M,1975,2026-07-09,M54,Back Pain,Dr. Khan,Pulmonology,0,15627.76,N
+V00121,P0041,Neha Patel,M,1995,2025-08-21,M54,Back Pain,Dr. Iyer,General Medicine,11,2714.29,Y
+V00122,P0049,Asha Khan,M,2000,2026-03-31,M54,Back Pain,Dr. Sharma,Cardiology,2,17503.03,Y
+V00123,P0003,Ravi Nair,M,1938,2025-10-28,J45,Asthma,Dr. Sharma,Cardiology,5,9683.61,N
+V00124,P0016,Divya Sharma,F,2016,2026-08-03,J18,Pneumonia,Dr. Khan,Pulmonology,10,19916.73,N
+V00125,P0012,Neha Singh,F,1945,2026-01-27,I10,Hypertension,Dr. Rao,Endocrinology,9,17236.8,N
+V00126,P0059,Ravi Das,M,1941,2025-08-26,J18,Pneumonia,Dr. Reddy,Orthopedics,7,16128.66,N
+V00127,P0017,Arjun Patel,F,1980,2026-04-22,M54,Back Pain,Dr. Sharma,Cardiology,4,17101.47,N
+V00128,P0005,Vikram Kumar,M,2018,2025-11-03,I21,Myocardial Infarction,Dr. Iyer,General Medicine,10,24069.71,N
+V00129,P0030,Vikram Singh,F,1983,2025-07-23,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,6,21406.72,Y
+V00130,P0016,Divya Sharma,F,2016,2026-01-03,I21,Myocardial Infarction,Dr. Rao,Endocrinology,9,7748.87,N
+V00131,P0002,Kiran Patel,M,2004,2025-10-09,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,0,14365.26,Y
+V00132,P0059,Ravi Das,M,1941,2025-10-21,J18,Pneumonia,Dr. Khan,Pulmonology,12,20072.07,N
+V00133,P0015,Sara Singh,M,1947,2025-09-14,M54,Back Pain,Dr. Reddy,Orthopedics,10,19011.64,N
+V00134,P0041,Neha Patel,M,1995,2025-11-13,I10,Hypertension,Dr. Sharma,Cardiology,12,11300.17,N
+V00135,P0047,Asha Reddy,M,1935,2025-10-30,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,5,18813.28,N
+V00136,P0013,Neha Sharma,F,2008,2026-01-10,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,8,12793.97,N
+V00137,P0054,Divya Das,M,2018,2026-05-09,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,12,7730.97,N
+V00138,P0052,Imran Nair,M,1947,2025-03-19,I10,Hypertension,Dr. Khan,Pulmonology,2,18976.71,N
+V00139,P0056,Ravi Reddy,M,1959,2026-07-25,M54,Back Pain,Dr. Khan,Pulmonology,5,2712.42,N
+V00140,P0001,Ravi Kumar,F,1966,2025-05-07,J45,Asthma,Dr. Rao,Endocrinology,7,9530.35,N
+V00141,P0038,Asha Singh,F,1974,2025-04-21,I21,Myocardial Infarction,Dr. Iyer,General Medicine,10,6228.64,Y
+V00142,P0040,Ravi Singh,F,1943,2025-08-15,J18,Pneumonia,Dr. Iyer,General Medicine,10,2048.82,N
+V00143,P0059,Ravi Das,M,1941,2026-02-23,M54,Back Pain,Dr. Iyer,General Medicine,1,3924.54,Y
+V00144,P0020,Divya Sharma,M,1976,2025-04-10,I21,Myocardial Infarction,Dr. Sharma,Cardiology,3,22237.85,N
+V00145,P0025,Sara Patel,M,2006,2026-07-08,I21,Myocardial Infarction,Dr. Iyer,General Medicine,6,14889.84,N
+V00146,P0057,Neha Das,M,1989,2026-05-17,I21,Myocardial Infarction,Dr. Sharma,Cardiology,9,10498.84,N
+V00147,P0003,Ravi Nair,M,1938,2025-08-11,M54,Back Pain,Dr. Iyer,General Medicine,7,11395.05,N
+V00148,P0055,Ravi Kumar,F,1978,2026-01-12,J45,Asthma,Dr. Sharma,Cardiology,8,22591.56,N
+V00149,P0004,Ravi Reddy,M,1999,2025-07-14,I21,Myocardial Infarction,Dr. Iyer,General Medicine,1,23750.76,N
+V00150,P0006,Neha Nair,M,1992,2025-01-22,M54,Back Pain,Dr. Reddy,Orthopedics,0,19776.47,N
+V00151,P0009,Kiran Khan,M,1946,2025-07-30,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,1,20830.54,N
+V00152,P0038,Asha Singh,F,1974,2025-12-03,E11,Type 2 Diabetes,Dr. Reddy,Orthopedics,12,4115.08,Y
+V00153,P0018,Kiran Sharma,M,2012,2025-05-14,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,8,6641.03,N
+V00154,P0008,Divya Khan,F,1954,2025-05-15,M54,Back Pain,Dr. Sharma,Cardiology,0,9276.94,N
+V00155,P0038,Asha Singh,F,1974,2025-06-28,J45,Asthma,Dr. Sharma,Cardiology,4,1783.78,N
+V00156,P0034,Meena Das,M,1968,2026-05-03,I10,Hypertension,Dr. Sharma,Cardiology,7,19561.42,Y
+V00157,P0029,Ravi Patel,M,1989,2025-02-14,J18,Pneumonia,Dr. Reddy,Orthopedics,11,19689.06,N
+V00158,P0030,Vikram Singh,F,1983,2025-03-04,M54,Back Pain,Dr. Sharma,Cardiology,7,21258.81,N
+V00159,P0044,Kiran Sharma,F,2018,2026-03-31,I10,Hypertension,Dr. Khan,Pulmonology,1,22532.04,N
+V00160,P0039,Kiran Kumar,M,2007,2025-05-10,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,4,15795.78,N
+V00161,P0025,Sara Patel,M,2006,2025-10-29,J18,Pneumonia,Dr. Rao,Endocrinology,7,12886.0,N
+V00162,P0007,Vikram Sharma,M,1955,2026-07-19,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,11,21704.56,N
+V00163,P0029,Ravi Patel,M,1989,2025-12-14,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,7,10268.89,Y
+V00164,P0021,Asha Reddy,M,1975,2025-09-19,I21,Myocardial Infarction,Dr. Iyer,General Medicine,5,23863.02,N
+V00165,P0005,Vikram Kumar,M,2018,2025-04-06,I10,Hypertension,Dr. Sharma,Cardiology,6,2865.83,N
+V00166,P0052,Imran Nair,M,1947,2025-03-03,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,9,23937.3,N
+V00167,P0043,Vikram Nair,M,2004,2025-12-29,I10,Hypertension,Dr. Khan,Pulmonology,10,23557.68,N
+V00168,P0056,Ravi Reddy,M,1959,2025-10-22,M54,Back Pain,Dr. Sharma,Cardiology,9,8155.0,Y
+V00169,P0037,Meena Kumar,F,1997,2025-06-08,J18,Pneumonia,Dr. Reddy,Orthopedics,10,12313.64,Y
+V00170,P0023,Vikram Khan,M,2018,2026-01-12,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,1,19183.84,N
+V00171,P0052,Imran Nair,M,1947,2026-07-25,I21,Myocardial Infarction,Dr. Rao,Endocrinology,0,15420.38,N
+V00172,P0002,Kiran Patel,M,2004,2025-11-13,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,5,9100.07,N
+V00173,P0056,Ravi Reddy,M,1959,2026-02-15,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,1,3975.93,Y
+V00174,P0006,Neha Nair,M,1992,2025-08-09,M54,Back Pain,Dr. Rao,Endocrinology,6,10785.9,N
+V00175,P0011,Vikram Sharma,M,1993,2025-11-29,J45,Asthma,Dr. Iyer,General Medicine,12,23564.48,Y
+V00176,P0057,Neha Das,M,1989,2025-06-11,I10,Hypertension,Dr. Reddy,Orthopedics,12,15637.04,Y
+V00177,P0018,Kiran Sharma,M,2012,2026-05-13,I21,Myocardial Infarction,Dr. Khan,Pulmonology,9,11330.08,N
+V00178,P0014,Kiran Singh,M,1964,2025-04-27,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,5,11032.88,N
+V00179,P0044,Kiran Sharma,F,2018,2026-05-14,M54,Back Pain,Dr. Rao,Endocrinology,8,16844.75,Y
+V00180,P0015,Sara Singh,M,1947,2025-02-26,I21,Myocardial Infarction,Dr. Rao,Endocrinology,0,5508.37,N
+V00181,P0050,Kiran Sharma,F,1962,2025-10-24,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,5,3439.62,N
+V00182,P0048,Ravi Kumar,M,1943,2025-05-13,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,6,13548.27,N
+V00183,P0033,Arjun Singh,F,1990,2025-03-15,J18,Pneumonia,Dr. Iyer,General Medicine,6,21613.23,Y
+V00184,P0028,Neha Das,M,1941,2025-03-21,I10,Hypertension,Dr. Khan,Pulmonology,5,14606.1,N
+V00185,P0046,Kiran Reddy,M,1978,2025-10-24,M54,Back Pain,Dr. Khan,Pulmonology,1,10423.29,N
+V00186,P0011,Vikram Sharma,M,1993,2026-04-17,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,11,23034.36,Y
+V00187,P0028,Neha Das,M,1941,2025-09-07,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,6,14927.35,Y
+V00188,P0026,Neha Sharma,F,2009,2025-12-14,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,3,8660.18,N
+V00189,P0005,Vikram Kumar,M,2018,2026-06-28,J18,Pneumonia,Dr. Sharma,Cardiology,8,5250.64,N
+V00190,P0023,Vikram Khan,M,2018,2025-08-30,M54,Back Pain,Dr. Reddy,Orthopedics,1,4087.88,N
+V00191,P0012,Neha Singh,F,1945,2025-03-19,J18,Pneumonia,Dr. Reddy,Orthopedics,2,23806.66,N
+V00192,P0030,Vikram Singh,F,1983,2026-08-17,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,7,17187.77,N
+V00193,P0056,Ravi Reddy,M,1959,2025-06-04,M54,Back Pain,Dr. Iyer,General Medicine,7,2173.01,N
+V00194,P0041,Neha Patel,M,1995,2025-02-27,J45,Asthma,Dr. Iyer,General Medicine,5,12929.75,N
+V00195,P0030,Vikram Singh,F,1983,2025-02-28,I21,Myocardial Infarction,Dr. Sharma,Cardiology,5,20876.57,Y
+V00196,P0042,Neha Patel,F,2002,2026-06-04,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,6,11836.44,Y
+V00197,P0029,Ravi Patel,M,1989,2025-07-12,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,5,15322.64,N
+V00198,P0004,Ravi Reddy,M,1999,2025-12-18,I21,Myocardial Infarction,Dr. Sharma,Cardiology,11,2566.06,N
+V00199,P0003,Ravi Nair,M,1938,2026-03-26,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,8,13307.33,N
+V00200,P0024,Imran Nair,F,1953,2026-02-01,J45,Asthma,Dr. Iyer,General Medicine,6,19474.39,Y
+V00201,P0051,Neha Patel,F,1966,2025-03-09,M54,Back Pain,Dr. Iyer,General Medicine,5,2815.4,N
+V00202,P0019,Meena Reddy,M,1994,2025-06-03,J45,Asthma,Dr. Rao,Endocrinology,5,2496.8,N
+V00203,P0059,Ravi Das,M,1941,2026-02-06,J45,Asthma,Dr. Iyer,General Medicine,2,15078.51,Y
+V00204,P0020,Divya Sharma,M,1976,2025-12-03,J18,Pneumonia,Dr. Khan,Pulmonology,2,16917.85,Y
+V00205,P0042,Neha Patel,F,2002,2026-06-05,M54,Back Pain,Dr. Khan,Pulmonology,5,946.65,N
+V00206,P0012,Neha Singh,F,1945,2026-05-13,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,3,6050.3,N
+V00207,P0010,Divya Singh,F,1979,2025-04-14,I10,Hypertension,Dr. Iyer,General Medicine,8,19386.43,Y
+V00208,P0043,Vikram Nair,M,2004,2025-05-15,J45,Asthma,Dr. Rao,Endocrinology,9,9729.64,N
+V00209,P0012,Neha Singh,F,1945,2025-06-19,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,11,11223.0,N
+V00210,P0024,Imran Nair,F,1953,2026-03-31,M54,Back Pain,Dr. Reddy,Orthopedics,9,7480.73,N
+V00211,P0015,Sara Singh,M,1947,2025-11-13,J18,Pneumonia,Dr. Reddy,Orthopedics,12,19717.07,N
+V00212,P0024,Imran Nair,F,1953,2026-03-28,M54,Back Pain,Dr. Rao,Endocrinology,7,19351.24,N
+V00213,P0033,Arjun Singh,F,1990,2025-06-15,J18,Pneumonia,Dr. Khan,Pulmonology,3,20130.85,N
+V00214,P0056,Ravi Reddy,M,1959,2026-05-08,J45,Asthma,Dr. Sharma,Cardiology,5,14086.25,Y
+V00215,P0046,Kiran Reddy,M,1978,2025-05-08,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,4,2554.94,N
+V00216,P0018,Kiran Sharma,M,2012,2025-05-31,I21,Myocardial Infarction,Dr. Rao,Endocrinology,6,2746.98,N
+V00217,P0053,Ravi Nair,F,1989,2025-01-28,I21,Myocardial Infarction,Dr. Iyer,General Medicine,6,1804.79,N
+V00218,P0016,Divya Sharma,F,2016,2026-01-19,I21,Myocardial Infarction,Dr. Sharma,Cardiology,3,1190.59,Y
+V00219,P0054,Divya Das,M,2018,2025-05-30,M54,Back Pain,Dr. Iyer,General Medicine,2,1438.43,N
+V00220,P0045,Arjun Das,F,1950,2026-04-26,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,7,15576.03,Y
+V00221,P0002,Kiran Patel,M,2004,2025-06-03,J45,Asthma,Dr. Reddy,Orthopedics,8,23535.54,N
+V00222,P0008,Divya Khan,F,1954,2025-09-01,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,4,3485.28,N
+V00223,P0027,Divya Khan,M,1952,2026-04-14,M54,Back Pain,Dr. Rao,Endocrinology,1,3216.02,N
+V00224,P0039,Kiran Kumar,M,2007,2026-06-12,J18,Pneumonia,Dr. Sharma,Cardiology,9,6427.48,N
+V00225,P0019,Meena Reddy,M,1994,2025-12-28,I21,Myocardial Infarction,Dr. Sharma,Cardiology,3,14481.26,N
+V00226,P0043,Vikram Nair,M,2004,2026-06-21,M54,Back Pain,Dr. Sharma,Cardiology,5,2158.14,Y
+V00227,P0025,Sara Patel,M,2006,2025-02-14,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,10,9978.59,N
+V00228,P0017,Arjun Patel,F,1980,2026-01-01,M54,Back Pain,Dr. Sharma,Cardiology,12,2155.21,N
+V00229,P0047,Asha Reddy,M,1935,2026-08-19,M54,Back Pain,Dr. Sharma,Cardiology,11,19038.63,N
+V00230,P0003,Ravi Nair,M,1938,2025-12-13,J45,Asthma,Dr. Rao,Endocrinology,10,4789.68,N
+V00231,P0045,Arjun Das,F,1950,2025-05-19,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,1,18043.1,N
+V00232,P0003,Ravi Nair,M,1938,2025-02-14,J45,Asthma,Dr. Reddy,Orthopedics,12,5387.01,Y
+V00233,P0021,Asha Reddy,M,1975,2026-02-12,J45,Asthma,Dr. Rao,Endocrinology,8,12098.29,Y
+V00234,P0049,Asha Khan,M,2000,2025-10-20,M54,Back Pain,Dr. Reddy,Orthopedics,5,21622.39,Y
+V00235,P0056,Ravi Reddy,M,1959,2025-10-07,M54,Back Pain,Dr. Iyer,General Medicine,1,20083.89,N
+V00236,P0057,Neha Das,M,1989,2026-01-31,I21,Myocardial Infarction,Dr. Khan,Pulmonology,5,24356.23,N
+V00237,P0045,Arjun Das,F,1950,2026-06-16,I21,Myocardial Infarction,Dr. Iyer,General Medicine,4,20128.13,N
+V00238,P0006,Neha Nair,M,1992,2025-07-04,I21,Myocardial Infarction,Dr. Rao,Endocrinology,8,7697.28,Y
+V00239,P0006,Neha Nair,M,1992,2025-11-10,J45,Asthma,Dr. Iyer,General Medicine,7,15264.23,N
+V00240,P0011,Vikram Sharma,M,1993,2025-12-26,M54,Back Pain,Dr. Khan,Pulmonology,7,1537.7,N
+V00241,P0040,Ravi Singh,F,1943,2025-02-28,I21,Myocardial Infarction,Dr. Iyer,General Medicine,1,16944.01,N
+V00242,P0024,Imran Nair,F,1953,2025-02-01,J18,Pneumonia,Dr. Reddy,Orthopedics,2,21292.4,N
+V00243,P0003,Ravi Nair,M,1938,2025-08-30,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,12,16306.49,N
+V00244,P0025,Sara Patel,M,2006,2025-06-07,J18,Pneumonia,Dr. Sharma,Cardiology,10,11523.1,N
+V00245,P0024,Imran Nair,F,1953,2026-08-11,I21,Myocardial Infarction,Dr. Sharma,Cardiology,2,13471.77,N
+V00246,P0021,Asha Reddy,M,1975,2025-09-13,M54,Back Pain,Dr. Iyer,General Medicine,1,1134.88,N
+V00247,P0032,Asha Singh,F,2017,2026-07-30,J18,Pneumonia,Dr. Khan,Pulmonology,1,6913.53,N
+V00248,P0046,Kiran Reddy,M,1978,2025-10-20,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,11,22953.73,N
+V00249,P0013,Neha Sharma,F,2008,2025-03-17,I10,Hypertension,Dr. Reddy,Orthopedics,7,4730.08,N
+V00250,P0006,Neha Nair,M,1992,2025-12-22,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,11,2091.01,N
+V00251,P0058,Meena Sharma,F,1966,2025-06-28,J45,Asthma,Dr. Reddy,Orthopedics,12,9356.56,N
+V00252,P0008,Divya Khan,F,1954,2025-08-31,E11,Type 2 Diabetes,Dr. Reddy,Orthopedics,12,12603.54,N
+V00253,P0036,Sara Reddy,M,1982,2026-04-24,J18,Pneumonia,Dr. Iyer,General Medicine,12,24583.79,N
+V00254,P0040,Ravi Singh,F,1943,2025-11-13,I10,Hypertension,Dr. Sharma,Cardiology,6,24990.08,N
+V00255,P0034,Meena Das,M,1968,2026-08-12,I21,Myocardial Infarction,Dr. Khan,Pulmonology,1,3570.51,N
+V00256,P0042,Neha Patel,F,2002,2026-04-23,I10,Hypertension,Dr. Khan,Pulmonology,10,13175.32,N
+V00257,P0057,Neha Das,M,1989,2025-07-06,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,12,24173.48,N
+V00258,P0033,Arjun Singh,F,1990,2025-05-08,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,8,4248.88,N
+V00259,P0011,Vikram Sharma,M,1993,2025-12-21,J45,Asthma,Dr. Reddy,Orthopedics,8,22425.68,Y
+V00260,P0017,Arjun Patel,F,1980,2025-10-09,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,2,15813.05,Y
+V00261,P0033,Arjun Singh,F,1990,2026-08-18,M54,Back Pain,Dr. Reddy,Orthopedics,2,4694.42,N
+V00262,P0054,Divya Das,M,2018,2025-01-30,J18,Pneumonia,Dr. Sharma,Cardiology,1,1613.81,N
+V00263,P0042,Neha Patel,F,2002,2026-03-03,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,9,16155.28,N
+V00264,P0057,Neha Das,M,1989,2025-10-24,M54,Back Pain,Dr. Rao,Endocrinology,10,23937.93,N
+V00265,P0016,Divya Sharma,F,2016,2025-11-01,N39,Urinary Tract Infection,Dr. Khan,Pulmonology,7,2287.84,Y
+V00266,P0011,Vikram Sharma,M,1993,2026-05-11,I21,Myocardial Infarction,Dr. Khan,Pulmonology,7,5498.56,N
+V00267,P0021,Asha Reddy,M,1975,2025-12-20,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,6,3703.77,N
+V00268,P0033,Arjun Singh,F,1990,2025-11-23,J18,Pneumonia,Dr. Sharma,Cardiology,3,11928.58,N
+V00269,P0029,Ravi Patel,M,1989,2025-04-10,E11,Type 2 Diabetes,Dr. Reddy,Orthopedics,0,7610.19,N
+V00270,P0056,Ravi Reddy,M,1959,2025-09-12,J18,Pneumonia,Dr. Khan,Pulmonology,2,20430.21,N
+V00271,P0013,Neha Sharma,F,2008,2026-05-26,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,8,11936.97,N
+V00272,P0032,Asha Singh,F,2017,2026-02-07,I10,Hypertension,Dr. Sharma,Cardiology,8,11702.15,N
+V00273,P0014,Kiran Singh,M,1964,2025-02-19,J18,Pneumonia,Dr. Iyer,General Medicine,0,7393.23,N
+V00274,P0019,Meena Reddy,M,1994,2025-04-21,J18,Pneumonia,Dr. Sharma,Cardiology,6,3781.41,N
+V00275,P0047,Asha Reddy,M,1935,2026-01-10,J45,Asthma,Dr. Khan,Pulmonology,0,10314.25,N
+V00276,P0024,Imran Nair,F,1953,2025-03-17,J18,Pneumonia,Dr. Iyer,General Medicine,6,12854.26,N
+V00277,P0053,Ravi Nair,F,1989,2025-05-02,J18,Pneumonia,Dr. Rao,Endocrinology,2,24389.53,N
+V00278,P0024,Imran Nair,F,1953,2026-07-26,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,5,18996.65,N
+V00279,P0039,Kiran Kumar,M,2007,2026-05-28,J18,Pneumonia,Dr. Khan,Pulmonology,0,1609.93,N
+V00280,P0046,Kiran Reddy,M,1978,2026-06-16,J45,Asthma,Dr. Khan,Pulmonology,7,4149.05,N
+V00281,P0021,Asha Reddy,M,1975,2025-06-16,J18,Pneumonia,Dr. Iyer,General Medicine,6,24770.09,N
+V00282,P0038,Asha Singh,F,1974,2026-06-06,J45,Asthma,Dr. Rao,Endocrinology,8,12501.24,N
+V00283,P0031,Vikram Das,F,2005,2026-01-13,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,5,17008.26,N
+V00284,P0038,Asha Singh,F,1974,2026-05-01,J45,Asthma,Dr. Sharma,Cardiology,4,24193.23,N
+V00285,P0047,Asha Reddy,M,1935,2026-05-07,I10,Hypertension,Dr. Rao,Endocrinology,2,13343.69,N
+V00286,P0010,Divya Singh,F,1979,2025-02-02,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,9,23731.03,Y
+V00287,P0013,Neha Sharma,F,2008,2025-11-18,I10,Hypertension,Dr. Khan,Pulmonology,6,4210.07,N
+V00288,P0027,Divya Khan,M,1952,2026-04-28,J18,Pneumonia,Dr. Rao,Endocrinology,11,18321.35,N
+V00289,P0034,Meena Das,M,1968,2025-11-29,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,10,12220.09,N
+V00290,P0021,Asha Reddy,M,1975,2026-06-30,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,5,13883.69,N
+V00291,P0040,Ravi Singh,F,1943,2025-09-10,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,4,14173.12,N
+V00292,P0020,Divya Sharma,M,1976,2025-08-01,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,11,17772.21,N
+V00293,P0031,Vikram Das,F,2005,2025-10-08,J45,Asthma,Dr. Rao,Endocrinology,4,3485.92,N
+V00294,P0058,Meena Sharma,F,1966,2025-05-30,I21,Myocardial Infarction,Dr. Iyer,General Medicine,4,1530.63,Y
+V00295,P0023,Vikram Khan,M,2018,2026-05-06,I21,Myocardial Infarction,Dr. Iyer,General Medicine,3,5450.67,N
+V00296,P0060,Neha Kumar,M,1965,2025-05-21,J18,Pneumonia,Dr. Iyer,General Medicine,1,15584.09,N
+V00297,P0016,Divya Sharma,F,2016,2025-08-20,I10,Hypertension,Dr. Rao,Endocrinology,10,6204.5,Y
+V00298,P0027,Divya Khan,M,1952,2025-04-13,J45,Asthma,Dr. Khan,Pulmonology,10,19383.77,Y
+V00299,P0036,Sara Reddy,M,1982,2026-05-03,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,7,16438.2,N
+V00300,P0021,Asha Reddy,M,1975,2025-04-02,J45,Asthma,Dr. Sharma,Cardiology,10,14566.27,Y
+V00301,P0059,Ravi Das,M,1941,2025-06-30,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,0,24930.71,N
+V00302,P0051,Neha Patel,F,1966,2025-10-24,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,0,727.05,Y
+V00303,P0060,Neha Kumar,M,1965,2026-04-11,J45,Asthma,Dr. Iyer,General Medicine,10,13810.86,N
+V00304,P0057,Neha Das,M,1989,2026-04-25,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,4,5223.88,Y
+V00305,P0022,Divya Sharma,M,1962,2025-09-21,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,11,5061.88,N
+V00306,P0051,Neha Patel,F,1966,2025-07-17,J45,Asthma,Dr. Rao,Endocrinology,2,15468.39,N
+V00307,P0053,Ravi Nair,F,1989,2025-12-02,I21,Myocardial Infarction,Dr. Rao,Endocrinology,1,10320.41,Y
+V00308,P0012,Neha Singh,F,1945,2025-11-28,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,3,667.34,N
+V00309,P0016,Divya Sharma,F,2016,2025-12-04,I21,Myocardial Infarction,Dr. Iyer,General Medicine,4,14770.29,Y
+V00310,P0017,Arjun Patel,F,1980,2025-08-30,M54,Back Pain,Dr. Iyer,General Medicine,0,16860.76,N
+V00311,P0020,Divya Sharma,M,1976,2026-05-30,E11,Type 2 Diabetes,Dr. Khan,Pulmonology,11,19361.11,Y
+V00312,P0041,Neha Patel,M,1995,2025-08-15,J45,Asthma,Dr. Iyer,General Medicine,3,23955.33,N
+V00313,P0010,Divya Singh,F,1979,2026-01-18,I21,Myocardial Infarction,Dr. Rao,Endocrinology,6,17697.55,N
+V00314,P0049,Asha Khan,M,2000,2025-09-11,J18,Pneumonia,Dr. Reddy,Orthopedics,10,18991.12,Y
+V00315,P0034,Meena Das,M,1968,2026-01-06,I21,Myocardial Infarction,Dr. Rao,Endocrinology,1,22972.5,Y
+V00316,P0004,Ravi Reddy,M,1999,2026-06-02,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,3,14531.19,N
+V00317,P0011,Vikram Sharma,M,1993,2026-03-29,J45,Asthma,Dr. Rao,Endocrinology,1,17167.23,N
+V00318,P0006,Neha Nair,M,1992,2025-02-26,J18,Pneumonia,Dr. Khan,Pulmonology,7,3732.64,N
+V00319,P0030,Vikram Singh,F,1983,2026-07-27,J18,Pneumonia,Dr. Sharma,Cardiology,7,16982.81,N
+V00320,P0047,Asha Reddy,M,1935,2025-09-18,I10,Hypertension,Dr. Khan,Pulmonology,0,18772.21,Y
+V00321,P0003,Ravi Nair,M,1938,2025-03-07,I21,Myocardial Infarction,Dr. Iyer,General Medicine,8,24856.03,Y
+V00322,P0060,Neha Kumar,M,1965,2025-10-21,I21,Myocardial Infarction,Dr. Sharma,Cardiology,6,4909.54,N
+V00323,P0050,Kiran Sharma,F,1962,2026-01-19,M54,Back Pain,Dr. Khan,Pulmonology,6,11489.16,N
+V00324,P0025,Sara Patel,M,2006,2025-05-17,I10,Hypertension,Dr. Rao,Endocrinology,10,21577.02,Y
+V00325,P0012,Neha Singh,F,1945,2026-06-26,J18,Pneumonia,Dr. Khan,Pulmonology,2,18332.52,N
+V00326,P0054,Divya Das,M,2018,2025-11-02,I10,Hypertension,Dr. Sharma,Cardiology,7,17000.75,N
+V00327,P0035,Neha Patel,M,2015,2025-09-11,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,7,8980.91,N
+V00328,P0013,Neha Sharma,F,2008,2025-02-02,M54,Back Pain,Dr. Sharma,Cardiology,12,16674.84,Y
+V00329,P0016,Divya Sharma,F,2016,2025-04-14,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,9,1322.62,Y
+V00330,P0016,Divya Sharma,F,2016,2026-02-16,M54,Back Pain,Dr. Sharma,Cardiology,7,6241.31,N
+V00331,P0049,Asha Khan,M,2000,2025-05-24,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,8,24840.34,N
+V00332,P0053,Ravi Nair,F,1989,2025-11-23,M54,Back Pain,Dr. Rao,Endocrinology,9,15148.98,N
+V00333,P0016,Divya Sharma,F,2016,2026-06-18,J45,Asthma,Dr. Reddy,Orthopedics,3,10632.23,N
+V00334,P0004,Ravi Reddy,M,1999,2025-06-29,J18,Pneumonia,Dr. Rao,Endocrinology,10,17129.38,N
+V00335,P0004,Ravi Reddy,M,1999,2026-06-22,J45,Asthma,Dr. Khan,Pulmonology,5,17559.56,N
+V00336,P0010,Divya Singh,F,1979,2025-07-08,J45,Asthma,Dr. Khan,Pulmonology,12,13679.24,N
+V00337,P0055,Ravi Kumar,F,1978,2025-05-28,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,12,11844.12,Y
+V00338,P0036,Sara Reddy,M,1982,2026-07-25,I21,Myocardial Infarction,Dr. Khan,Pulmonology,8,3785.27,N
+V00339,P0017,Arjun Patel,F,1980,2025-03-22,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,7,21254.77,Y
+V00340,P0035,Neha Patel,M,2015,2025-02-22,M54,Back Pain,Dr. Reddy,Orthopedics,4,9740.62,Y
+V00341,P0056,Ravi Reddy,M,1959,2026-07-27,I10,Hypertension,Dr. Reddy,Orthopedics,3,12245.16,N
+V00342,P0020,Divya Sharma,M,1976,2025-07-14,I10,Hypertension,Dr. Reddy,Orthopedics,11,3374.25,N
+V00343,P0059,Ravi Das,M,1941,2025-07-29,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,6,22920.6,N
+V00344,P0050,Kiran Sharma,F,1962,2026-04-23,J45,Asthma,Dr. Khan,Pulmonology,8,16393.67,N
+V00345,P0017,Arjun Patel,F,1980,2026-05-25,J45,Asthma,Dr. Rao,Endocrinology,7,2915.9,N
+V00346,P0049,Asha Khan,M,2000,2025-07-28,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,5,8166.59,Y
+V00347,P0037,Meena Kumar,F,1997,2025-05-30,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,0,6888.97,N
+V00348,P0019,Meena Reddy,M,1994,2025-12-04,E11,Type 2 Diabetes,Dr. Reddy,Orthopedics,3,9806.07,N
+V00349,P0032,Asha Singh,F,2017,2025-09-21,J18,Pneumonia,Dr. Iyer,General Medicine,12,20629.0,N
+V00350,P0030,Vikram Singh,F,1983,2025-06-23,E11,Type 2 Diabetes,Dr. Iyer,General Medicine,2,18147.68,N
+V00351,P0012,Neha Singh,F,1945,2026-06-21,J18,Pneumonia,Dr. Sharma,Cardiology,0,21057.18,Y
+V00352,P0053,Ravi Nair,F,1989,2025-01-07,M54,Back Pain,Dr. Sharma,Cardiology,6,3868.54,N
+V00353,P0005,Vikram Kumar,M,2018,2025-01-10,M54,Back Pain,Dr. Reddy,Orthopedics,3,12890.46,N
+V00354,P0004,Ravi Reddy,M,1999,2026-05-10,J18,Pneumonia,Dr. Rao,Endocrinology,10,12452.43,Y
+V00355,P0035,Neha Patel,M,2015,2025-01-13,J18,Pneumonia,Dr. Khan,Pulmonology,0,13470.73,N
+V00356,P0035,Neha Patel,M,2015,2026-05-30,J45,Asthma,Dr. Sharma,Cardiology,11,17013.81,N
+V00357,P0007,Vikram Sharma,M,1955,2025-06-02,I10,Hypertension,Dr. Rao,Endocrinology,3,5202.34,N
+V00358,P0053,Ravi Nair,F,1989,2026-02-11,J45,Asthma,Dr. Iyer,General Medicine,1,9639.76,N
+V00359,P0030,Vikram Singh,F,1983,2025-08-20,J18,Pneumonia,Dr. Reddy,Orthopedics,4,17259.02,Y
+V00360,P0042,Neha Patel,F,2002,2025-04-06,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,6,9791.97,N
+V00361,P0004,Ravi Reddy,M,1999,2025-06-25,M54,Back Pain,Dr. Sharma,Cardiology,1,12746.53,N
+V00362,P0042,Neha Patel,F,2002,2026-08-03,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,1,22422.38,Y
+V00363,P0015,Sara Singh,M,1947,2026-05-02,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,4,1640.77,Y
+V00364,P0044,Kiran Sharma,F,2018,2026-08-01,J45,Asthma,Dr. Rao,Endocrinology,10,1306.09,N
+V00365,P0002,Kiran Patel,M,2004,2025-05-28,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,12,20606.92,N
+V00366,P0060,Neha Kumar,M,1965,2025-06-16,I10,Hypertension,Dr. Iyer,General Medicine,9,6391.57,N
+V00367,P0044,Kiran Sharma,F,2018,2026-01-29,J18,Pneumonia,Dr. Iyer,General Medicine,12,18623.76,Y
+V00368,P0033,Arjun Singh,F,1990,2025-02-24,M54,Back Pain,Dr. Iyer,General Medicine,1,11208.66,Y
+V00369,P0022,Divya Sharma,M,1962,2026-02-11,J18,Pneumonia,Dr. Rao,Endocrinology,12,8496.23,N
+V00370,P0051,Neha Patel,F,1966,2025-08-22,I21,Myocardial Infarction,Dr. Khan,Pulmonology,5,14049.42,N
+V00371,P0028,Neha Das,M,1941,2026-01-25,E11,Type 2 Diabetes,Dr. Rao,Endocrinology,1,19418.1,N
+V00372,P0052,Imran Nair,M,1947,2025-03-26,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,4,4278.41,N
+V00373,P0048,Ravi Kumar,M,1943,2026-01-05,I21,Myocardial Infarction,Dr. Iyer,General Medicine,1,2742.25,N
+V00374,P0029,Ravi Patel,M,1989,2025-04-15,J45,Asthma,Dr. Iyer,General Medicine,2,2638.78,N
+V00375,P0029,Ravi Patel,M,1989,2026-06-09,J18,Pneumonia,Dr. Rao,Endocrinology,6,3030.68,Y
+V00376,P0023,Vikram Khan,M,2018,2025-11-29,J18,Pneumonia,Dr. Sharma,Cardiology,6,802.35,N
+V00377,P0025,Sara Patel,M,2006,2026-07-27,N39,Urinary Tract Infection,Dr. Sharma,Cardiology,3,14513.03,N
+V00378,P0044,Kiran Sharma,F,2018,2025-05-23,I21,Myocardial Infarction,Dr. Reddy,Orthopedics,4,7877.72,N
+V00379,P0010,Divya Singh,F,1979,2026-03-22,I10,Hypertension,Dr. Reddy,Orthopedics,4,10817.01,N
+V00380,P0051,Neha Patel,F,1966,2025-09-15,I10,Hypertension,Dr. Iyer,General Medicine,3,18162.04,N
+V00381,P0039,Kiran Kumar,M,2007,2026-04-14,J18,Pneumonia,Dr. Reddy,Orthopedics,1,3819.49,Y
+V00382,P0026,Neha Sharma,F,2009,2026-01-25,J45,Asthma,Dr. Rao,Endocrinology,12,21623.86,N
+V00383,P0022,Divya Sharma,M,1962,2025-05-20,I21,Myocardial Infarction,Dr. Rao,Endocrinology,4,8356.3,N
+V00384,P0031,Vikram Das,F,2005,2026-02-12,J45,Asthma,Dr. Reddy,Orthopedics,5,7640.48,N
+V00385,P0037,Meena Kumar,F,1997,2025-11-30,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,6,7367.35,N
+V00386,P0024,Imran Nair,F,1953,2025-07-24,I10,Hypertension,Dr. Rao,Endocrinology,9,24932.99,N
+V00387,P0044,Kiran Sharma,F,2018,2025-01-28,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,11,11809.74,N
+V00388,P0029,Ravi Patel,M,1989,2025-03-12,N39,Urinary Tract Infection,Dr. Iyer,General Medicine,12,19978.62,N
+V00389,P0009,Kiran Khan,M,1946,2025-09-05,M54,Back Pain,Dr. Iyer,General Medicine,4,16637.24,N
+V00390,P0051,Neha Patel,F,1966,2026-04-05,I21,Myocardial Infarction,Dr. Sharma,Cardiology,9,12241.25,N
+V00391,P0035,Neha Patel,M,2015,2026-07-11,J18,Pneumonia,Dr. Khan,Pulmonology,0,19872.66,N
+V00392,P0045,Arjun Das,F,1950,2025-03-29,N39,Urinary Tract Infection,Dr. Rao,Endocrinology,1,19339.37,N
+V00393,P0011,Vikram Sharma,M,1993,2025-02-15,M54,Back Pain,Dr. Rao,Endocrinology,9,24598.4,N
+V00394,P0049,Asha Khan,M,2000,2025-04-19,J45,Asthma,Dr. Khan,Pulmonology,0,2915.86,N
+V00395,P0033,Arjun Singh,F,1990,2026-07-26,M54,Back Pain,Dr. Rao,Endocrinology,9,17347.78,N
+V00396,P0029,Ravi Patel,M,1989,2026-04-20,J45,Asthma,Dr. Khan,Pulmonology,12,17149.11,N
+V00397,P0023,Vikram Khan,M,2018,2025-04-18,I10,Hypertension,Dr. Khan,Pulmonology,4,10691.4,Y
+V00398,P0008,Divya Khan,F,1954,2025-12-23,N39,Urinary Tract Infection,Dr. Reddy,Orthopedics,4,8905.13,N
+V00399,P0034,Meena Das,M,1968,2026-05-03,I21,Myocardial Infarction,Dr. Iyer,General Medicine,1,11235.07,N
+V00400,P0021,Asha Reddy,M,1975,2025-02-15,I10,Hypertension,Dr. Iyer,General Medicine,12,17914.09,Y
+V00006,P0055,Ravi Kumar,F,1978,2025-03-11,E11,Type 2 Diabetes,Dr. Sharma,Cardiology,10,21614.57,N
+V00007,P0008,Divya Khan,F,1954,2026-08-16,J18,Pneumonia,Dr. Reddy,Orthopedics,9,1473.67,Y
